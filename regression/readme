@@ -1,1 +1,4 @@
-readme
+Performed basic linear regression on both single and multi variables.
+Have also used 
+from sklearn.model_selection import train_test_split 
+for  spliting daga for traing and testing of the linear model
