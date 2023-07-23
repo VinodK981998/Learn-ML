@@ -1,0 +1,12 @@
+svm_iris = 
+Train SVM classifier to identify type of iris flower
+
+svm_digits = 
+Support Vector Machine (SVM) Exercise(Digits)
+Train SVM classifier using sklearn digits dataset (i.e. from sklearn.datasets import load_digits) and then,
+
+Measure accuracy of your model using different kernels such as rbf and linear.
+Tune your model further using regularization and gamma parameters and try to come up with highest accurancy score
+Use 80% of samples as training data size
+
+Have also implimented cross validation using GridSearch to identify best method and accuracy
