@@ -1,2 +1,0 @@
-# Learn-ML
-ML projects
