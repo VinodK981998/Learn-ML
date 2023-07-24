@@ -1,0 +1,4 @@
+This folder contains implementation of random forest to identify type of iris flower (an inbuilt dataset in sklearn)
+
+Random Forest is an ensemble learning method used for both classification and regression tasks in machine learning.
+It is a popular and powerful algorithm that combines multiple decision trees to make more accurate predictions than individual trees.
