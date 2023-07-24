@@ -1,0 +1,4 @@
+Using train_test_split might create a test and train data set which does not contain anything common, ex train contains algebra and test contain calculus 
+that's why instead of 1 we can do multiple tests which is achieved using KFold(statifiedKFold) 
+
+Cross-validation takes model, inputs and target data as input and provide accuracy matrix as output, reducing all the coding part that we have to do the same 
