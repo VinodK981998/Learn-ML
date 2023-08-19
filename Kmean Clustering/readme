@@ -1,0 +1,14 @@
+In this assignment 
+- Use iris flower dataset from sklearn library and try to form clusters of flowers using petal width and length features. Drop other two features for simplicity.
+- Figure out if any preprocessing such as scaling would help here
+- Draw elbow plot and from that figure out optimal value of k
+
+
+
+Kmean
+
+K-means clustering is a popular unsupervised machine learning algorithm used for partitioning data into distinct groups,
+or clusters, based on similarity patterns. It seeks to minimize the variance within clusters by iteratively assigning data
+points to the nearest cluster center and updating those centers. K-means is versatile and widely applied in various fields,
+such as customer segmentation, image compression, and anomaly detection, to uncover hidden structures in data and aid in 
+decision-making.
